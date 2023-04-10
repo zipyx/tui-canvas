@@ -1,4 +1,4 @@
-# Rust tui-block
+# Rust tui-canvas
 
 Repository based on `Rust` tui library implementation on the `canvas` concept.
 
